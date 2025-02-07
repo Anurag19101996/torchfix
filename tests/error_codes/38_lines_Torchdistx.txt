@@ -1,5 +1,0 @@
-Repository: Torchdistx
-Total Python lines:     2192
-Total TorchFix errors (TOR***): 2
-Individual TorchFix error counts:
-TOR102: 2

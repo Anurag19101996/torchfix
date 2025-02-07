@@ -1,3 +1,0 @@
-Repository: builder
-Checking root directory only to avoid duplication.
-Repository: builder

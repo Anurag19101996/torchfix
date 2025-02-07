@@ -1,5 +1,0 @@
-Repository: contrib
-Total Python lines:     1652
-Total TorchFix errors (TOR***): 1
-Individual TorchFix error counts:
-TOR401: 1

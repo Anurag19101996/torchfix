@@ -1,3 +1,0 @@
-Repository: expecttest
-Checking root directory only to avoid duplication.
-Repository: expecttest

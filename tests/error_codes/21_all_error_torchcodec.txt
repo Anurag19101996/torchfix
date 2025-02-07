@@ -1,4 +1,0 @@
-Repository: torchcodec
-Checking root directory only to avoid duplication.
-Finished checking 35 files.
-Repository: torchcodec
